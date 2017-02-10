@@ -1,5 +1,8 @@
 #Python / Eclipse files
 .metadata
+.project
+.pydevproject
+__pycache__/
 
 # Windows image file caches
 Thumbs.db
